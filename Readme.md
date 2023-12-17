@@ -14,4 +14,4 @@ This data set is collected from Addis Ababa Sub-city police departments for mast
 The target feature is Accident_severity which is a multi-class variable. The task is to classify this variable based on the other 31 features step-by-step by going through each day's task. Your metric for evaluation will be f1-score
 
 🥽 **Application Preview:**
-![image](https://user-images.githubusercontent.com/104824947/212529165-84716c68-2f41-49b9-82d2-61fc165db2df.png)
+![app_preview](https://github.com/ChayanKoley153/RTA-Project/assets/60001227/083e9e47-0eca-4720-aa08-692a703a5116)
